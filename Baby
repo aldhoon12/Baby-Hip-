@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baby Hip Clinic</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #6EC1E4;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #6EC1E4;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #6EC1E4;
+        }
+        footer {
+            background-color: #6EC1E4;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+        .location {
+            margin-bottom: 20px;
+        }
+        .contact {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Baby Hip Clinic</h1>
+    <p>Specialized Screening and Care for Developmental Dysplasia of the Hip (DDH)</p>
+</header>
+
+<nav>
+    <a href="#services">Services</a>
+    <a href="#locations">Locations</a>
+    <a href="#contact">Contact Us</a>
+</nav>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <p>At Baby Hip Clinic, we offer specialized screening for Developmental Dysplasia of the Hip (DDH) for infants and young children. Early detection and treatment can make a huge difference in your child’s development. Our clinic offers:</p>
+    <ul>
+        <li>Ultrasound screening for DDH</li>
+        <li>Comprehensive hip evaluations</li>
+        <li>Follow-up care and treatment</li>
+        <li>Parental education and support</li>
+    </ul>
+</section>
+
+<section id="locations">
+    <h2>Clinic Locations</h2>
+    <div class="location">
+        <h3>Amman</h3>
+        <p>Queen Rania Hospital, Al Jubeiha, Amman</p>
+    </div>
+    <div class="location">
+        <h3>Al-Salt</h3>
+        <p>Al-Salt General Hospital, Al-Salt</p>
+    </div>
+    <div class="location">
+        <h3>Al-Zarqa</h3>
+        <p>Zarqa Governmental Hospital, Al-Zarqa</p>
+    </div>
+    <div class="location">
+        <h3>Irbid</h3>
+        <p>Irbid Specialty Hospital, Irbid</p>
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <div class="contact">
+        <h3>Phone</h3>
+        <p>079-XXXXXXX</p>
+    </div>
+    <div class="contact">
+        <h3>Email</h3>
+        <p><a href="mailto:info@babyhipclinic.com">info@babyhipclinic.com</a></p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 Baby Hip Clinic. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
